@@ -1,0 +1,36 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 20px;
+}
+
+.row > div {
+  padding: 20px;
+  border: 1px solid black;
+  line-height: 80px;
+  text-align: center;
+}
+.row {
+  margin: 0px;
+  height: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.col {
+  margin: 0px;
+  height: 80px;
+  width: 80px;
+}
+
+.progress {
+  width: 84%;
+}
